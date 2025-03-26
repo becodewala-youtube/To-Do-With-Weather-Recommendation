@@ -42,10 +42,6 @@ This project is a **Task Management Application** with integrated weather inform
 
 ## 🚀 How to Run?
 1. **Clone the Repo:**
-```bash
-git clone https://github.com/your-username/task-weather-app.git
-cd task-weather-app
-```
 2. **Install Dependencies:**
 ```bash
 npm install
@@ -55,7 +51,7 @@ npm install
 npm start
 ```
 4. **Access the App:**
-- Navigate to `http://localhost:3000` in your browser.
+- Navigate to `http://localhost:5173` in your browser.
 
 ---
 
