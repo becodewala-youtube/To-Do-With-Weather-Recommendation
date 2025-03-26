@@ -42,7 +42,10 @@ This project is a **Task Management Application** with integrated weather inform
 
 ## 🚀 How to Run?
 1. **Clone the Repo:**
-2. **Install Dependencies:**
+  ```bash
+git clone https://github.com/becodewala-youtube/To-Do-With-Weather-Recommendation.git
+```
+3. **Install Dependencies:**
 ```bash
 npm install
 ```
